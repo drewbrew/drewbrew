@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drew</h1>
 <h3 align="center">I write code. Sometimes it works. I brew beer. Sometimes it's tasty.</h3>
 
-- 🔭 I’m currently working on [HSV.beer](https://hsv.beerr)
+- 🔭 I’m currently working on [HSV.beer](https://hsv.beer)
 
 - 🌱 I’m currently learning **Elasticsearch, GraphQL**
 
